@@ -21,3 +21,38 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+# IntelliJ Idea project files
+.idea
+*.iml
+*.uconf.properties
+*.logback.xml
+.mvn
+# Eclipse project files
+.classpath
+.settings
+.project
+.metadata
+
+# Temporary files
+out
+target
+conf_dev
+*.pyc
+*.conf
+
+# OSX temp files
+.DS_Store
+
+# GIT
+# .gitignore
+
+# DataBase
+*.rdb
+
+# log
+logs/
+
+
+# others
